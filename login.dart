@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:qpass/signup.dart';
 
+// this is just for the repo purposes.
+
 class Qpass extends StatefulWidget {
   @override
   _QpassState createState() => _QpassState();
